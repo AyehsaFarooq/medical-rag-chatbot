@@ -5,13 +5,20 @@ An AI-powered Medical Question Answering System built using Retrieval-Augmented 
 The chatbot retrieves relevant medical information from a knowledge base and generates context-aware responses, reducing hallucinations and improving answer reliability.
 
 **🚀 Features**
-Retrieval-Augmented Generation (RAG)
-Semantic Search using FAISS
-Sentence Embeddings with Sentence Transformers
-Local LLM inference using Ollama
-Context-aware Medical Question Answering
-Streamlit Web Interface
-Fast and Lightweight Deployment
+
+1. Retrieval-Augmented Generation (RAG)
+
+2. Semantic Search using FAISS
+
+3. Sentence Embeddings with Sentence Transformers
+
+4. Local LLM inference using Ollama
+
+5. Context-aware Medical Question Answering
+
+6. Streamlit Web Interface
+
+7. Fast and Lightweight Deployment
 
 **🏗️ System Architecture**
 
@@ -32,21 +39,30 @@ Ollama LLM
 Generated Response
 
 **🛠️ Technologies Used**
-Python
-Streamlit
-FAISS
-Ollama
-Sentence Transformers
-Retrieval-Augmented Generation (RAG)
-NLP
+
+1. Python
+
+2. Streamlit
+
+3. FAISS
+
+4. Ollama
+
+5. entence Transformers
+
+6. Retrieval-Augmented Generation (RAG)
+
+7. NLP
 
 **📂 Dataset**
 
 The chatbot uses medical documents that are:
 
-Embedded using Sentence Transformers
-Indexed in FAISS
-Retrieved based on semantic similarity
+1. Embedded using Sentence Transformers
+
+2. Indexed in FAISS
+
+2. Retrieved based on semantic similarity
 
 
 **⚙️ Installation**
