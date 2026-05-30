@@ -1,0 +1,2 @@
+cd "D:\Users\Tab & Tech\Documents\chatbot-project"
+call "chatbot-env\Scripts\activate.bat"

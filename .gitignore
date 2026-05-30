@@ -1,0 +1,21 @@
+# Ignore virtual environment
+chatbot-env/
+venv/
+.env/
+
+# Ignore large ML model/data files
+*.pkl
+*.faiss
+*.bin
+*.dll
+*.lib
+*.so
+*.dylib
+*.zip
+*.tar
+*.gz
+*.7z
+
+# Ignore PyTorch model weights
+*.pt
+*.pth
